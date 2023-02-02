@@ -1,6 +1,6 @@
 # scALA
 
-This scALA pipeline is available for Linux.
+This single-cell amplified genome long-read assembly (scALA) pipeline had been developed to construct complete circular SAGs (cSAGs) from long-read single-cell sequencing data of uncultured bacteria. This pipeline is available for Linux.
 
 #### Requirment
 python >= 3.6  
